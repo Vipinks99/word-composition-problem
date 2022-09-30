@@ -1,6 +1,6 @@
-### Word Composition Problem
+# Word Composition Problem
 
-# Steps to execute the code
+## Steps to execute the code
 * After downloading the folder open any idle and wordComposition.java file. 
 
 ## Overview
